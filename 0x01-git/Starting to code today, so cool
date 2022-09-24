@@ -1,0 +1,9 @@
+[master 8d43468] My first commit
+ 7 files changed, 2 insertions(+)
+ create mode 100644 0x01-git/alx
+ create mode 100644 0x01-git/bash/alx
+ create mode 100644 0x01-git/bash/school
+ create mode 100644 0x01-git/c/c_is_fun.c
+ create mode 100644 0x01-git/js/index.js
+ create mode 100644 0x01-git/js/main.js
+ create mode 100644 0x01-git/school
